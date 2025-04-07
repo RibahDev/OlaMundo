@@ -5,7 +5,7 @@
             "name": "Debug C Program",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/variaveis/variaveis2.exe",
+            "program": "${workspaceFolder}/estoque/estoque.exe",
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
             "externalConsole": true,
